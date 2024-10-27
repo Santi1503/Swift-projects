@@ -19,6 +19,8 @@ Este repositorio documenta mi progreso en el aprendizaje de Swift. Aquí encontr
 - *(Detalles y capturas en el [README del proyecto](https://github.com/Santi1503/Swift-projects/tree/main/Presentation/README.md))*
 - **Estado**: `Completado`
 
+---
+
 ### Proyecto 2: [Card Game](https://github.com/Santi1503/Swift-projects/tree/main/Card%20Game)
 - **Descripción**: Este es un juego de cartas simple en donde el jugador compite contra la CPU. Cada jugador recibe una carta aleatoria, y el que tenga la carta más alta gana la ronda. El primero en llegar a 10 puntos es el ganador.
 - **Conceptos Clave**: "@State" para gestionar estados, uso de Button, imagenes, ZStack, VStack, HStack y lógica de juego
