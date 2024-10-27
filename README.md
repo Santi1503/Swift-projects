@@ -1,3 +1,5 @@
+![Swift](https://img.shields.io/badge/Language-Swift-orange)
+![Estado](https://img.shields.io/badge/Estado-Completado-green)
 # Proyectos en Swift 🚀
 
 Este repositorio documenta mi progreso en el aprendizaje de Swift. Aquí encontrarás una colección de proyectos que he realizado, con detalles sobre cada uno, así como aprendizajes y conceptos clave. ¡Acompáñame en este camino! 🙋‍♂️
