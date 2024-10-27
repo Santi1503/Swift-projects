@@ -16,7 +16,7 @@ Este repositorio documenta mi progreso en el aprendizaje de Swift. Aquí encontr
 - **Características**:
   - Contiene un fondo colorido y vista de tarjeta con sombra
   - Perfil de usuario con imagen, nombre, reseñas (datos no reales) y hobbies.
-- *(Detalles y capturas en el [README del proyecto](https://github.com/Santi1503/Swift-projects/tree/main/Presentation/README.md))*
+- *Capturas del [proyecto](https://github.com/Santi1503/Swift-projects/tree/main/Presentation/README.md)*
 - **Estado**: `Completado`
 
 ---
@@ -28,7 +28,7 @@ Este repositorio documenta mi progreso en el aprendizaje de Swift. Aquí encontr
   - Sistema de puntuación que determina un ganador
   - Función de reinicio automático del juego
 - **Fuente de inspiración**: Idea basada en [este video](https://www.youtube.com/watch?v=K0t-RCSlasE&t=9718s)
-- *(Detalles y capturas en el [README del proyecto](https://github.com/Santi1503/Swift-projects/tree/main/Card%20Game/README.md))*
+- *Capturas del [proyecto](https://github.com/Santi1503/Swift-projects/tree/main/Card%20Game/README.md)*
 - **Estado**: `Completado`
 
 ---
