@@ -9,7 +9,7 @@ Este repositorio documenta mi progreso en el aprendizaje de Swift. Aquí encontr
 
 ## 📂 Proyectos Actuales 👨‍💻
 
-### Proyecto 1: [Presentation](https://github.com/Santi1503/Swift-projects/tree/main/Presentation)
+### Proyecto 1: [Presentation](https://github.com/Santi1503/Swift-projects/tree/main/Proyectos/Presentation)
 - **Descripción**: Este proyecto se basa en una presentación en SwiftUI que muestra una tarjeta de perfil básica. El propósito es explorar elementos de interfaz en SwiftUI, como imagenes, pilas (Stacks) y vistas personalizadas para practicar el diseño de una vista atractiva y funcional.
 - **Conceptos Clave**:
     * ZStack, VStack y HStack
@@ -19,19 +19,19 @@ Este repositorio documenta mi progreso en el aprendizaje de Swift. Aquí encontr
 - **Características**:
   - Contiene un fondo colorido y vista de tarjeta con sombra
   - Perfil de usuario con imagen, nombre, reseñas (datos no reales) y hobbies.
-- *Capturas del [proyecto](https://github.com/Santi1503/Swift-projects/tree/main/Presentation/README.md)*
+- *Capturas del [proyecto](https://github.com/Santi1503/Swift-projects/blob/main/Proyectos/Presentation/README.md)*
 - **Estado**: `Completado`
 
 ---
 
-### Proyecto 2: [Card Game](https://github.com/Santi1503/Swift-projects/tree/main/Card%20Game)
+### Proyecto 2: [Card Game](https://github.com/Santi1503/Swift-projects/tree/main/Proyectos/Card%20Game)
 - **Descripción**: Este es un juego de cartas simple en donde el jugador compite contra la CPU. Cada jugador recibe una carta aleatoria, y el que tenga la carta más alta gana la ronda. El primero en llegar a 10 puntos es el ganador.
 - **Conceptos Clave**: "@State" para gestionar estados, uso de Button, imagenes, ZStack, VStack, HStack y lógica de juego
 - **Características**:
   - Sistema de puntuación que determina un ganador
   - Función de reinicio automático del juego
 - **Fuente de inspiración**: Idea basada en [este video](https://www.youtube.com/watch?v=K0t-RCSlasE&t=9718s)
-- *Capturas del [proyecto](https://github.com/Santi1503/Swift-projects/tree/main/Card%20Game/README.md)*
+- *Capturas del [proyecto](https://github.com/Santi1503/Swift-projects/blob/main/Proyectos/Card%20Game/README.md)*
 - **Estado**: `Completado`
 
 ---
